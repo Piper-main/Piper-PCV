@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="piper_blue">#2196F3</color>
+    <color name="piper_dark">#0D1117</color>
+    <color name="piper_surface">#161B22</color>
+    <color name="piper_white">#FFFFFF</color>
+    <string name="app_name">Piper PCV</string>
+    <style name="Theme.PiperPCV" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/piper_dark</item>
+        <item name="android:navigationBarColor">@color/piper_dark</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

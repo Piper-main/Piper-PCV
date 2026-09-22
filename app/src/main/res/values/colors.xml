@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="piper_blue">#2196F3</color>
+    <color name="piper_dark">#0D1117</color>
+    <color name="piper_surface">#161B22</color>
+    <color name="piper_white">#FFFFFF</color>
+</resources>

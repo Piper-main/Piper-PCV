@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+color piper_blue
+color piper_dark
+color piper_surface
+color piper_white
+string app_name
+style Theme.PiperPCV
